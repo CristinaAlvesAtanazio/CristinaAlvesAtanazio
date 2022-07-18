@@ -1,8 +1,9 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 6 hours
+    - cron: "0 */6 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -15,8 +16,16 @@ jobs:
         id: snake-gif
         with:
           github_user_name: CristinaAlvesAtanazio
-          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
-
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - run: git status
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
       - uses: Platane/snk/svg-only@v2
         with:
           target_branch: output
