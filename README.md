@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristina Alves Atanazio</h1>
 <h3 align="center">The unicorn Tech 🦄</h3>
 
-- 📫 How to reach me **cristinaalvescontato@gmail.com**
-
 <div align="center">
   <a href="https://github.com/CristinaAlvesAtanazio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:cristinaalvescontato@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="cristina.a.a_" height="30" width="40" /></a>
-</p>
-<a href="https://linkedin.com/in/cristina-alves-atanazio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristina-alves-atanazio" height="30" width="40" /></a>
+<a href="mailto:cristinaalvescontato@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="cristina.a.a_" height="30" width="40" /></a> <a href="https://linkedin.com/in/cristina-alves-atanazio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristina-alves-atanazio" height="30" width="40" /></a>
 <a href="https://instagram.com/cristina.a.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristina.a.a_" height="30" width="40" /></a>
 </p>
 
