@@ -1,6 +1,10 @@
 <h1 align="center">Olá Aqui é a Cris conhecida como Unicórnia Tech🦄 </h1>
 <h3 align="center"> Sejam bem vind@s ao meu mundo</h3>
 
+<!-- <img src=""> esta é outra maneira de adicionar imagens e permite dimensioná-las -->
+![](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif)
+
+
 <div align="center">
   <a href="https://github.com/CristinaAlvesAtanazio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
