@@ -5,12 +5,6 @@
 <img src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif"> 
 </p>
 
-<p align="center">
-<a href="https://github.com/CristinaAlvesAtanazio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaAlvesAtanazio&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
 <div align="center">
   <a href="https://github.com/CristinaAlvesAtanazio">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,4 +30,4 @@ Se você ainda não teve a chance de conferir o [ GitHub Skyline ](https://skyli
 
 
 
-![Snake animation](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/.github/workflows/snake.yml)
