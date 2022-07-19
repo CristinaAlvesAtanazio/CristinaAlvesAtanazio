@@ -40,4 +40,4 @@
 
 
 ###  Algumas curiosidades sobre mim:
-Iniciei minha transição de carreira a 2 anos hoje estou na area de Site Reliability Engineer, sou entusiasta pela tecnologia, adoro descobrir conceitos e coisas novas para fazer.
+Sou formada inicialmente em Serviço Social, desde a graduação me dediquei a estudar a Tecnologia como aliada nessa profissão, após isso decid realizar uma transição de carreira pois algo me chamava para me desafiar, começei estudando um pouco de Front End e descobri que amo "enfeitar" as coisas, depois disso tentei aprender um pouco de lógca de programação e assim desenvolver capacidades analiticas com o código. Descobri no meio dessa aventura que amo dados e decidi realizar uma pós graduação em Ciência de Dados. Atualmente estou atuando como Site Reliability Engineer e cada dia mais disposta a me desafiar 🚀
