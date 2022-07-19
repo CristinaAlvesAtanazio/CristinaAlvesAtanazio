@@ -5,11 +5,12 @@
 <img src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif"> 
 </p>
 
-<div align="center">
-  <a href="https://github.com/CristinaAlvesAtanazio">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaAlvesAtanazio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/CristinaAlvesAtanazio/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaAlvesAtanazio&layout=compact&langs_count=7&theme=dracula" />
+</a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -23,11 +24,7 @@
   <img align="right" width="150" height="150" src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/ezgif.com-gif-maker%20(1).gif"></a>
 
 ###  Algumas curiosidades sobre mim:
-Iniciei minha transição de carreira a 2 anos hoje estou na area de Site Reliabili Engineer, sou entusiasta pela tecnologa, adoro descobrir conceitos e coisas novas para fazer.
-
-##  Estatísticas do GitHub
-Se você ainda não teve a chance de conferir o [ GitHub Skyline ](https://skyline.github.com/), faça isso agora. É uma visualização 3D do seu gráfico de contribuição. Você pode visualizar o gráfico, fazer um vídeo, baixar o arquivo STL, adicionar anotações e até mesmo visualizá-lo em Realidade Virtual.
-
+Iniciei minha transição de carreira a 2 anos hoje estou na area de Site Reliability Engineer, sou entusiasta pela tecnologia, adoro descobrir conceitos e coisas novas para fazer.
 
 
 ![Snake animation](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/.github/workflows/snake.yml)
