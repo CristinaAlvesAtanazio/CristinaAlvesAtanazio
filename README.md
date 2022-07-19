@@ -2,7 +2,7 @@
 <h3 align="center"> Sejam bem vind@s ao meu mundo</h3>
 
 <p align="center">
-<img src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif" > 
+<img src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif"> 
 </p>
 
 <p align="center">
