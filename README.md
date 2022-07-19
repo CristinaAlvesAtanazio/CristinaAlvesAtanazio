@@ -5,6 +5,9 @@
 <img src="https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/blob/main/original.gif"> 
 </p>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CristinaAlvesAtanazio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaAlvesAtanazio&layout=compact&theme=dracula&hide_border=true" /></a> |
+| --------------------------------- | --------------------------------- |
+
 <a href="https://github.com/CristinaAlvesAtanazio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&theme=dracula" />
 </a>
