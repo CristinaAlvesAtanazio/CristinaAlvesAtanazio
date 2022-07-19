@@ -2,10 +2,14 @@
 <h3 align="center"> Sejam bem vind@s ao meu mundo</h3>
 
 
+
+
 - 💼 Site Reliability Engineer
 - 💼 Pós graduanda em Ciência de Dados
 - ❤️ Aspirante a tecnologia e amante de dados
 - 💬 Pergunte-me sobre qualquer coisa [ aqui ](https://github.com/CristinaAlvesAtanazio/CristinaAlvesAtanazio/issues)
+
+[![Github](https://img.shields.io/github/followers/CristinaAlvesAtanazio?label=Follow&style=social)](https://github.com/CristinaAlvesAtanazio)
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CristinaAlvesAtanazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CristinaAlvesAtanazio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaAlvesAtanazio&layout=compact&theme=dracula&hide_border=true" /></a> |
