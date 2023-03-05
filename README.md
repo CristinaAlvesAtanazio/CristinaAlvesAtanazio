@@ -1,5 +1,5 @@
 <h1 align="center">Olá Aqui é a Cris 🦄 </h1>
-<h3 align="center"> Sejam bem vind@s ao meu mundo</h3>
+<h3 align="center"> Sejam bem vindos ao meu mundo</h3>
 
 
 
